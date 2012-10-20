@@ -1,4 +1,4 @@
-class Carta
+﻿class Carta
 	attr_reader :valor, :naipe
 	
 	@@mapa = {

@@ -1,4 +1,4 @@
-require_relative "carta"
+﻿require_relative "carta"
 
 
 describe "Poker" do 

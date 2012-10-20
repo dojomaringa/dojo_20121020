@@ -1,20 +1,20 @@
-Poker
+ÔªøPoker
 
-No jogo de Poker, uma m„o consiste em cinco cartas que podem ser comparadas, da mais baixa para a mais alta, da seguinte maneira:
+No jogo de Poker, uma m√£o consiste em cinco cartas que podem ser comparadas, da mais baixa para a mais alta, da seguinte maneira:
 Carta Alta: A carta de maior valor.
 Um Par: Duas cartas do mesmo valor.
 Dois Pares: Dois pares diferentes.
-Trinca: TrÍs cartas do mesmo valor e duas de valores diferentes.
-Straight (seq¸Íncia): Todas as carta com valores consecutivos.
+Trinca: Tr√™s cartas do mesmo valor e duas de valores diferentes.
+Straight (seq√º√™ncia): Todas as carta com valores consecutivos.
 Flush: Todas as cartas do mesmo naipe.
 Full House: Um trinca e um par.
 Quadra: Quatro cartas do mesmo valor.
-Straight Flush: Todas as cartas s„o consecutivas e do mesmo naipe.
-Royal Flush: A seq¸Íncia 10, Valete, Dama, Rei, ¡s, do mesmo naipe.
-As cartas s„o, em ordem crescente de valor: 2, 3, 4, 5, 6, 7, 8, 9, 10, Valete, Dama, Rei, ¡s.
-Os naipes s„o: Ouro (D), Copa (H), Espadas (S), Paus (C)
-Se dois jogadores possuem a mesma m„o, vence que tiver a m„o formada pelas cartas de maior valor.
-Alguns exemplos de m„o e seus respectivos vencedores:
+Straight Flush: Todas as cartas s√£o consecutivas e do mesmo naipe.
+Royal Flush: A seq√º√™ncia 10, Valete, Dama, Rei, √Ås, do mesmo naipe.
+As cartas s√£o, em ordem crescente de valor: 2, 3, 4, 5, 6, 7, 8, 9, 10, Valete, Dama, Rei, √Ås.
+Os naipes s√£o: Ouro (D), Copa (H), Espadas (S), Paus (C)
+Se dois jogadores possuem a mesma m√£o, vence que tiver a m√£o formada pelas cartas de maior valor.
+Alguns exemplos de m√£o e seus respectivos vencedores:
  	Jogador 1	 	Jogador 2	 	Vencedor
  	5H 5C 6S 7S KD
 Par de cinco
@@ -22,12 +22,12 @@ Par de cinco
 Par de oito
  	Jogador 2
  	5D 8C 9S JS AC
-Carta mais alta: ¡s
+Carta mais alta: √Ås
  	2C 5C 7D 8S QH
 Carta mais alta: Dama
  	Jogador 1
  	2D 9C AS AH AC
-Trinca de ¡s
+Trinca de √Ås
  	3D 6D 7D TD QD
 Flush com Ouro
  	Jogador 2
@@ -40,9 +40,9 @@ Carta mais alta: 7
  	Jogador 1
  	2H 2D 4C 4D 4S
 Full House
-Com trÍs 4
+Com tr√™s 4
  	3C 3D 3S 9S 9D
 Full House
-Com trÍs 3
+Com tr√™s 3
  	Jogador 1
-Desenvolva um programa que, de acordo com as m„os de dois jogadores, informe qual deles È o vencedor.
+Desenvolva um programa que, de acordo com as m√£os de dois jogadores, informe qual deles √© o vencedor.
